@@ -1,0 +1,6 @@
+{
+    "name": "administrator/yii",
+    "require": {
+        "composer-plugin-api": "^1.1"
+    }
+}
